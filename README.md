@@ -17,7 +17,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <h2>Environments Used </h2>
 
-- <b>Jupyter Notebook</b> (21H2)
+- <b>Jupyter Notebook</b>
 
 <h2>Program walk-through:</h2>
 
