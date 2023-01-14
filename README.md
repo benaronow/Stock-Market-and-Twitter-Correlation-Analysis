@@ -41,7 +41,7 @@ Set up the Twitter API Tweepy Client:  <br/>
 Collect data from Twitter:  <br/>
 <img src="https://imgur.com/kmIwqQN.png" height="80%" width="80%"/>
 <br />
-<img src="https://imgur.com/nsUYzPb.png" height="80%" width="80%"/>
+<img src="https://imgur.com/MlfeJ0c.png" height="80%" width="80%"/>
 <br />
 <br />
 Build a Random Forest Regressor model:  <br/>
