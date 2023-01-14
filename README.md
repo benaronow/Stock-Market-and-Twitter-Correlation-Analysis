@@ -12,8 +12,8 @@ Project consists of a simple PowerShell script that walks the user through "zero
 - <b>Python</b> 
 - <b>Numpy/Pandas</b> 
 - <b>SciKitLearn</b>
-- <b>Tweepy Client</b>
-- <b>Polygon RESTClient</b>
+- <b>Twitter API Tweepy Client</b>
+- <b>Polygon API RESTClient</b>
 
 <h2>Environments Used </h2>
 
