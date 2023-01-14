@@ -26,28 +26,34 @@ Import the necessary libraries: <br/>
 <img src="https://imgur.com/Pxgi08u.png" height="80%" width="80%"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up the Polygon API Client:  <br/>
+<img src="https://imgur.com/7ZJUEPw.png" height="80%" width="80%"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Collect data from Polygon: <br/>
+<img src="https://imgur.com/3usO9r8.png" height="80%" width="80%"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Set up the Twitter API Tweepy Client:  <br/>
+<img src="https://imgur.com/ymauZ62.png" height="80%" width="80%"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Collect data from Twitter:  <br/>
+<img src="https://imgur.com/kmIwqQN.png" height="80%" width="80%"/>
+<br />
+<img src="https://imgur.com/nsUYzPb.png" height="80%" width="80%"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Build a Random Forest Regressor model:  <br/>
+<img src="https://imgur.com/SNejO7I.png" height="80%" width="80%"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Build a Support Vector Machine Regression model:  <br/>
+<img src="https://imgur.com/U41qDis.png" height="80%" width="80%"/>
+<br />
+<br />
+Build a Linear Regression model:  <br/>
+<img src="https://imgur.com/CkaKasL.png" height="80%" width="80%"/>
 </p>
 
 <!--
