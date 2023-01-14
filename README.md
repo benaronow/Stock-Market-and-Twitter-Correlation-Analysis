@@ -23,7 +23,7 @@ Project consists of a simple PowerShell script that walks the user through "zero
 
 <p align="center">
 Import the necessary libraries: <br/>
-<img src="https://imgur.com/Pxgi08u.png" height="80%" width="80%" alt="Stock Market and Twitter Correlation Analysis"/>
+<img src="https://imgur.com/Pxgi08u.png" height="80%" width="80%"/>
 <br />
 <br />
 Select the disk:  <br/>
