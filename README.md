@@ -10,21 +10,28 @@ company had its own dataframe. Date represented the day that the given piece of 
 how much the stock price increased or decreased over that day, and range represented the difference between the highest and lowest
 stock prices of that day. From there, we normalized the performance and range indicators to values between 0 and 1.
 <br/>
-
+<br/>
 Since the stock information is our outcome, we needed to convert it into one metric, which we did by summing performance and range
 and then normalizing it once again. This converted the information into one ‘Activity’ metric which served as a general
 representation for how much a stock value changed over a day’s period.
 <br/>
-
+<br/>
 Our next step was to collect twitter information, which we did using Tweepy to access the Twitter API. We compiled a list of the
 usernames of CEOs for the companies we pulled stock data from, and used Tweepy to create a dataframe of how many tweets, likes,
 retweets, and quote tweets were associated with each of those usernames over a day’s period between January 1st, 2022 and November
 30th. During this process we found that some values were null which meant that no tweets, likes, retweets, or quote tweets happened
 on that day. So, we chose to fill those null values with 0 to quantitatively represent that.
 <br/>
-
-From there, we concatenated our twitter and stock dataframes into one dataframe that we used to create our model with. 
 <br/>
+After all data was collected, we concatenated our twitter and stock dataframes into one dataframe that we used to build and test our
+models with. 
+<br/>
+<br/>
+Since we were predicting a continuous value rather than classifying data, we knew we had to use regression models. The first model we used
+was a Random Forest Regressor because it provided flexibility to use categorical data, although we did not end up using any categorical
+data. The second model we used was a Support Vector Machine as it is another effective model for regression problems. Last, we created a
+Linear Regression model as it was a more basic alternative to our other models so it gave us a chance to observe the efficiency of a model
+that simplifies the input data.
 
 <h2>Languages and Utilities Used</h2>
 
