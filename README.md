@@ -1,6 +1,6 @@
 <h1>Stock Market and Twitter Correlation Analysis</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Video Demonstration](https://youtu.be/7eJexJVCqJo)
 
 <h2>Description</h2>
 Description
