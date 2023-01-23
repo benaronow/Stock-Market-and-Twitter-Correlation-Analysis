@@ -1,6 +1,6 @@
 <h1>Stock Market and Twitter Correlation Analysis</h1>
 
- ### [Video Demonstration](https://youtu.be/7eJexJVCqJo)
+ ### [Video Demonstration](https://youtu.be/6LiRfb4rg8Y)
 
 <h2>Description</h2>
 We began by using the Polygon API to collect stock information from various large companies such as Apple, Microsoft, and Amazon.
